@@ -1,0 +1,27 @@
+header {
+    margin: 1rem;
+	border: 0.4em solid #ADD8E6;
+	padding: 1.5rem;
+	width: 40%;
+	height: 10%;
+    text-align: center;
+    color: green;
+    display: inline-block;
+}
+.about-us{
+    color:#3dcd1c;
+    text-decoration: underline;
+    margin: 0.2rem;
+    text-align: center;
+    width: 110%;
+}
+.main-menu{
+    color:#3dcd1c;
+    text-decoration: underline;
+}
+footer {
+    background-color: #f8faf9;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #e0e0e0;
+}
